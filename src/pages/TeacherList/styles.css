@@ -44,7 +44,7 @@
 	left: 1.6rem;
 	right: 1.6rem;
 	bottom: 0;
-	transition: 0.5s;
+	transition: 0.2s;
 }
 
 #search-teachers .input-block:focus-within::after {

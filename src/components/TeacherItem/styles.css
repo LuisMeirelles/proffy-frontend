@@ -68,10 +68,11 @@
 	display: flex;
 	align-items: center;
 	justify-content: space-evenly;
-	transition: 0.5s;
+	transition: all 0.2s;
 }
 
-.teacher-item footer button:hover {
+.teacher-item footer button:hover,
+.teacher-item footer button:focus {
 	background: var(--color-secondary-dark);
 }
 
