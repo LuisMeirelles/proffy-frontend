@@ -13,7 +13,7 @@ export const subjects = [
 	{ value: 'Sociologia', label: 'Sociologia' }
 ]
 
-export const weekdays = [
+export const days = [
 	{ value: '0', label: 'Domingo'},
 	{ value: '1', label: 'Segunda-feira'},
 	{ value: '2', label: 'Terça-feira'},
